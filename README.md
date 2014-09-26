@@ -1,13 +1,17 @@
 # headings
 
-Headings variables.
+Headings styles and variables
 
-## Installation
+## Install
 
 ```sh
-$ npm install shoelace-ui/headings
+$ npm install shoelace-ui-headings
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-headings'
+```
 ## License
 
 MIT

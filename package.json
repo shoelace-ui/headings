@@ -1,16 +1,16 @@
 {
   "name" : "shoelace-ui-headings",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Headings styles and variables",
   "repository" : "https://github.com/shoelace-ui/headings.git",
-  "keywords" : ["stylus","heading","headings","variable","variables"],
+  "keywords" : ["shoelace", "heading", "headings"],
   "devDependencies": {
     "serve": "^1.4.0",
     "stylus": "^0.44.0"
   },
   "dependencies": {
-    "shoelace-ui-line-height": "git+https://github.com/shoelace-ui/line-height.git",
-    "shoelace-ui-font-size": "git+https://github.com/shoelace-ui/font-size.git"
+    "shoelace-ui-line-height": "^0.1.0",
+    "shoelace-ui-font-size": "^0.1.0"
   },
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT"
