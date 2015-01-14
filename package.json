@@ -1,6 +1,6 @@
 {
   "name" : "shoelace-ui-headings",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "description" : "Headings styles and variables",
   "repository" : "https://github.com/shoelace-ui/headings.git",
   "keywords" : ["shoelace", "heading", "headings"],
